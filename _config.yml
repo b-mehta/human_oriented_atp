@@ -1,15 +1,15 @@
 title:              Extremely Human-Oriented ATP
 email:              kmc61@cam.ac.uk
 description:        Webpage for the Extremely Human-Oriented Automated Theorem Proving (ATP) project spearheaded by Professor Tim Gowers
-author:             Extremely Human-Oriented ATP Team
+author:             Extremely Human-Oriented ATP Team (modified from Start Bootstrap Theme)
 baseurl:            "/human_oriented_atp"
 url:                "https://collinskatie.github.io/human_oriented_atp/"
 
 # Social Profiles
 twitter_username:
 github_username:
-facebook_username:  
-instagram_username:  
+facebook_username:
+instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
